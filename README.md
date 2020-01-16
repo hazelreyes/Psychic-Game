@@ -23,7 +23,8 @@ To use the Javascript programming language to create a simple web game
 1. Install Visual Studio Code
 1. Install Git Bash
 1. Create repository `Psychic-Game` in GitHub
-1. Use Git Bash to go inside the folder `Psychic-Game` and to create `index.html` file and `assets` folder
+1. Use Git Bash to `git clone` the repo `Psychic-Game`
+1. Create `index.html` file and `assets` folder
 1. Inside `assets` folder, create folders `css` and `javascript`
 1. Inside the `css` folder, create `reset.css` file
 1. Inside the `javascript` folder, create `game.js` file
